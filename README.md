@@ -1,9 +1,13 @@
+<div align = "center">
+  <a href="https://github.com/paulocesargit">
+    <img height = "140px" src = "https://user-images.githubusercontent.com/92947069/183311882-d6cec5b0-18e8-48cf-a551-098f295fbce5.gif">
+  </a>
+</div>
 <div align="center">
  <h2>Welcome to my GitHub 🚀</h2>
  
  <div align="left">
  
-  
  <div style="display: inline_block">
    <h3> About: </h3>
    <p>- 👨‍💻 T.I Senac PE </p>
